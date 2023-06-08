@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../.idea/PycharmProjects.iml" filepath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/cdwarehouse.iml" filepath="$PROJECT_DIR$/.idea/cdwarehouse.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mars_rover/.idea/mars_rover.iml" filepath="$PROJECT_DIR$/../mars_rover/.idea/mars_rover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taxiprice/.idea/taxiprice.iml" filepath="$PROJECT_DIR$/../taxiprice/.idea/taxiprice.iml" />
     </modules>
   </component>
 </project>
